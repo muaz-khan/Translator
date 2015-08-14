@@ -13,6 +13,10 @@ Translator.js is a JavaScript library built top on Google Speech-Recognition & T
 <script src="//cdn.webrtc-experiment.com/Translator.js"> </script>
 ```
 
+Facing issues using in your own domain?
+
+* https://github.com/muaz-khan/Translator/issues/1#issuecomment-131100677
+
 # API Reference
 
 ```javascript
